@@ -16,5 +16,6 @@ echo "#"
 echo "#"
 echo "#"
 
+gh auth login
 gh create repo TESTREP 
 
