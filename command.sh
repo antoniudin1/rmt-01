@@ -16,9 +16,6 @@ echo "#"
 echo "#"
 echo "#"
 
-mkdir TEST1
-cd TEST1
-
 read -p "Please enter your name: " user_name
 
 echo "Hello, $user_name! Nice to meet you."
