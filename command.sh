@@ -16,5 +16,9 @@ echo "#"
 echo "#"
 echo "#"
 
-gh auth login
+mkdir TEST
+cd TEST
+gh repo clone https://github.com/antoniudin1/rep10_01.git
+
+
 
