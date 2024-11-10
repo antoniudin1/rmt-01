@@ -2,5 +2,19 @@
 
 echo "Starting the script..."
 
-echo "Running first echo command..."
+echo "Creating a repository..."
 echo "Hello from the first command!"
+
+echo "#"
+echo "#"
+echo "#"
+echo "#"
+echo "#"
+echo "#"
+echo "#"
+echo "#"
+echo "#"
+echo "#"
+
+gh create repo TESTREP 
+
